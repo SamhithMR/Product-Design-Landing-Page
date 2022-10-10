@@ -39,6 +39,7 @@ button {
 }
 
 button:hover {
+    transition: 0.3s ease-in-out;
     outline: 1px solid var(--red);
     background-color: transparent;
 }
@@ -267,7 +268,7 @@ nav {
 }
 
 .features-button {
-    width: 20%;
+    margin: 1rem 0;
 }
 
 .features-btn {

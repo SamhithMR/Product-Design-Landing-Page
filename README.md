@@ -16,9 +16,10 @@ https://samhith15.netlify.app/
 
 
 # what i learn't
-  👉 **flexboxes and grids**  <br>
-  👉 **handle svg images** <br>
+  👉 **typography** <br>
+  👉 **CSS with less amount of media query**  <br>
   👉 **responsive images**  <br> 
+  👉 **grid layout**  <br> 
   👉 **Advanced layout designing** <br>
   👉 Units like pixels, viewports,percentage  <br>
   👉 **build a responsive website with redundant code** <br>
@@ -31,5 +32,7 @@ https://samhith15.netlify.app/
 ## 📌 Overview
 
 <br>
+
+![Screenshot](./preview2.png) "completly responsive")
 
 ![Screenshot](./preview.png) "Template Screenshot")
